@@ -1,0 +1,42 @@
+body {
+    background-color: #42bcf4;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.box { 
+  background-color: #fff;
+  padding: 60px;
+  margin: 0 auto;
+  max-width: 50%;
+  font-family: Lora;
+}
+
+#quote{
+    margin-top: -40px;;
+}
+.social {
+    padding-top: 70px;
+    margin: 0 auto;
+    
+}
+
+.twitter {
+    font-size: 30px;
+}
+#new-quote{
+    float: right;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase; 
+    color:#fff;
+    font-size: 35px;
+}
+
+h2{
+    font-size: 23px;
+    text-align: center;
+}

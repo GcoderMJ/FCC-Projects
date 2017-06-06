@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    font-family: Montserrat;
+     font-size: 1.1em;
+     padding: 60px;
+     margin: 60px auto;
+     max-width: 70%;
+}
+
+.location{
+    font-size: 1.5em;
+    text-transform: uppercase; 
+}
+
+h3{
+    margin: 0;
+    padding-top: 25px;
+    color: #fff;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+.main{
+    background: #6f96c6;
+    height: 110px;
+}
+
+
+.box{
+    padding: 50px;
+    height: 250px;;
+}
+
+.temperature {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.coded{
+    color:#fff;
+    float: left;
+    padding-top: 60px;
+    margin: 10px;
+}
+

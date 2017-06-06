@@ -1,0 +1,29 @@
+body{
+ margin: 20px auto;
+}
+
+.container {
+  background-color: #bdc3c7;
+  padding: 40px;
+  margin: 40px auto;
+  max-width: 70%;
+  font-family: Lora;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto; 
+}
+
+h1, h3, h4 {
+    font-weight: 400;
+    font-size: 3.0rem;
+    text-align: center;
+}
+.caption {
+    font-size: 1.0rem;
+    text-align: center;
+}
+
+

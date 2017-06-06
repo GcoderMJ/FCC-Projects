@@ -1,0 +1,83 @@
+body{  
+  background: #f1f2b5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #f1f2b5, #135058); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f1f2b5, #135058); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.container{
+    flex-wrap: wrap;
+    margin: auto 80px;
+}
+
+h1{
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 3.2em;
+    padding-top: 60px;
+    margin-bottom: -10px;
+}
+.img{
+    font-size: 80px;
+    color: #fff;
+}
+.img:hover{
+     color: blue;
+}
+input {
+   width: 35%;
+   height: 25px;
+}
+.search-box{
+    padding-top: 30px;
+}
+
+#btn-search{
+    padding-left: 10px;
+    font-size: 30px;
+}
+
+.link {
+    text-transform: uppercase;
+}
+
+#button-random:hover{
+ text-decoration: underline;
+color: blue;
+}
+
+#button-random{
+ text-decoration: none;
+ color: #fff;
+}
+.results{
+ padding-top: 40px;
+ text-align: justify;
+}
+#result{ 
+  box-sizing: content-box;
+  text-align: center;
+}
+
+.border{
+    box-sizing: content-box;
+    margin: 20px;
+    padding: 20px;
+    border: 20px solid #cdf7e9;
+    background: #fbfff4;
+}
+
+.title{
+    text-align: left;   
+}
+.title a{
+    text-decoration: none;
+    color: black;
+}
+
+.title a:hover{
+    text-decoration: underline;
+    color: blue;
+}
